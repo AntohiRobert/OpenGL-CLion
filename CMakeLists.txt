@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.3)
-project(LearnOpenGL-CLion)
+project(OpenGL-CLion)
 
 find_package(OpenGL REQUIRED)
 
